@@ -8,7 +8,7 @@ Estudante de Ciência da Computação, buscando sempre por novos conhecimentos e
 </div>
 
 ##
-
+<!--
 <div align="left">
   <a href="https://github.com/alelimasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelimasilva&layout=compact&langs_count=9&theme=dark"/>
@@ -16,6 +16,6 @@ Estudante de Ciência da Computação, buscando sempre por novos conhecimentos e
 
 </div>
   
-  
+ --> 
   ##
  
